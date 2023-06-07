@@ -1,0 +1,41 @@
+Original Source: https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii?resource=download
+
+file name: data.csv
+
+Below is a list of columns and descriptions for the above csv file.
+- case_id
+    Unique id for each case
+- Hospital_code
+    Unique code for the hospital
+- Hospital_type_code
+    Unique code for the type of hospital
+- City_Code_Hospital
+    City code for the hospital
+- Hospital_region_code
+    Region code for the hospital
+- Available Extra Rooms in Hospital
+    Number of Extra rooms available for use in the hospital
+- Department
+    Department in charge of the case
+- Ward_Type
+    Unique code for the ward type
+- Ward_Facility_Code
+    Unique code for the ward facility
+- Bed Grade
+    Condition of bed in the ward
+- patientid
+    Unique patient id
+- City_Code_Patient
+    City code for the patient
+- Type of Admission
+    Admission type registered by the hospital
+- Severity of Illness
+    Severity of the illness recorded at the time of admission
+- Visitors with Patient
+    Number of Visitors with the patient
+- Age
+    Age of the patient
+- Admission_Deposit
+    Deposit at the admission time
+- Stay
+    Number of days stayed by the patient

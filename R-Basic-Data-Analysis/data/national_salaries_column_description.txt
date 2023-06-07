@@ -1,0 +1,51 @@
+Original Source: School course
+
+file name: national_salaries.csv
+
+Below is a list of columns and descriptions for the above csv file.
+- AREA
+Geographic area
+- ST
+State code
+- STATE
+State name
+- OCC_CODE
+Occupation code
+- OCC_TITLE
+Occupation title
+- GROUP
+Occupational group
+- TOT_EMP
+Total employment
+- EMP_PRSE
+Employment relative standard error
+- H_MEAN
+Mean hourly wage
+- A_MEAN
+Mean annual wage
+- MEAN_PRSE
+Mean wage relative standard error
+- H_PCT10
+10th percentile hourly wage
+- H_PCT25
+25th percentile hourly wage
+- H_MEDIAN
+Median hourly wage
+- H_PCT75
+75th percentile hourly wage
+- H_PCT90
+90th percentile hourly wage
+- A_PCT10
+10th percentile annual wage
+- A_PCT25
+25th percentile annual wage
+- A_MEDIAN
+Median annual wage
+- A_PCT75
+75th percentile annual wage
+- A_PCT90
+90th percentile annual wage
+- ANNUAL
+Annual wage
+- HOURLY
+Hourly wage
