@@ -8,7 +8,7 @@ The **Healthcare Analytics II** dataset, obtained from Kaggle, consists of over 
 
 The **Home Credit Default Risk** dataset, also sourced from Kaggle, comprises over 120 columns and more than 300,000 rows. The project includes the necessary data preprocessing steps to prepare the dataset for model training. Various machine learning models are then trained and evaluated using this dataset.
 
-The project consists of two main files: `b` and `b`. These files contain the code and workflows for data preprocessing, model training, and prediction using the respective datasets. The code demonstrates essential techniques such as handling missing values, feature encoding, data normalization, and splitting the data into training and testing sets.
+The project consists of two main files: `credit.r` and `hospital.r`. These files contain the code and workflows for data preprocessing, model training, and prediction using the respective datasets. The code demonstrates essential techniques such as handling missing values, feature encoding, data normalization, and splitting the data into training and testing sets.
 
 This project is intended to serve as a comprehensive demonstration of machine learning techniques in R, showcasing the ability to preprocess data, train models, and make predictions using trained models. It provides valuable insights into real-world applications of machine learning in the healthcare and credit risk domains.
 
